@@ -17,12 +17,12 @@
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/bardonremi/Desktop/temp4/MySharedPackage">
+      location = "container:MySharedPackage">
    </FileRef>
    <FileRef
-      location = "group:/Users/bardonremi/Desktop/temp4/MyPackageA">
+      location = "container:MyPackageA">
    </FileRef>
    <FileRef
-      location = "group:/Users/bardonremi/Desktop/temp4/MyPackageB">
+      location = "container:MyPackageB">
    </FileRef>
 </Workspace>
