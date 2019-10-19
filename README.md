@@ -1,6 +1,6 @@
 # Sharing code and `Pods` between multiple projects
 
-This repository is an example of how you can handle sharing a code base between different apps throught the use of both `Cocoapods` and `Swift Packages`.
+This repository is an example of how you can handle sharing a code base between different apps through the use of both `Cocoapods` and `Swift Packages`.
 
 ## Usage
 
