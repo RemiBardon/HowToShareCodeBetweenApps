@@ -2,6 +2,18 @@
 
 This repository is an example of how you can handle sharing a code base between different apps through the use of both `Cocoapods` and `Swift Packages`.
 
+## Requirements
+
+To use this project, you need macOS Catalina, XCode 11 and Cocoapods.
+
+## Installation
+
+```sh
+git clone https://github.com/RemiBardon/HowToShareCodeBetweenApps.git
+cd HowToShareCodeBetweenApps
+pod install
+```
+
 ## Usage
 
 You can edit the files contained in [Common/Common/SharedCode](Common/Common/SharedCode) to impact both example app. In case you add / remove a file from the folder, make sure you add / remove it from the referenced folders in each app as well. Also, since `SharedCode` is a reference in both app, you can edit the files directly from the other projects.
